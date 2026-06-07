@@ -1,17 +1,20 @@
 {
   "id": "abomination-under-absalom",
   "title": "Abomination Under Absalom",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "14",
+    "verified": "14"
   },
   "relationships": {
     "systems": [
       {
         "id": "pf2e",
         "type": "system",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "8.1.2",
+          "verified": "8.1.2"
+        }
       }
     ]
   },
@@ -198,7 +201,9 @@
       ]
     }
   ],
-  "url": "https://github.com/molotgor/abominations-under-absalom",
-  "manifest": "https://raw.githubusercontent.com/molotgor/abominations-under-absalom/master/module.json",
-  "download": "https://github.com/molotgor/abominations-under-absalom/archive/refs/heads/master.zip"
+  "url": "https://github.com/HonzoNebro/abominations-under-absalom",
+  "manifest": "https://raw.githubusercontent.com/HonzoNebro/abominations-under-absalom/main/module.json",
+  "readme": "https://github.com/HonzoNebro/abominations-under-absalom/blob/main/README.md",
+  "bugs": "https://github.com/HonzoNebro/abominations-under-absalom/issues",
+  "download": "https://github.com/HonzoNebro/abominations-under-absalom/releases/download/v2.0.0/abomination-under-absalom.zip"
 }
