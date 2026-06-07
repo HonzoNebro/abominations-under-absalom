@@ -4,7 +4,7 @@ A Foundry VTT module for Pathfinder Second Edition.
 
 ## Compatibility
 
-Version 2.0.1 is prepared for Foundry VTT 14 and PF2e 8.1.2. It intentionally does not claim support for Foundry VTT 12 or 13.
+Version 2.0.2 is prepared for Foundry VTT 14 and PF2e 8.1.2. It intentionally does not claim support for Foundry VTT 12 or 13.
 
 ## Foundry VTT 14 Migration Checklist
 
@@ -20,4 +20,4 @@ The compendium packs in this repository were originally produced by Foundry VTT 
 
 ## Release Packaging
 
-Publish the v2.0.1 download as a release asset named `abomination-under-absalom.zip`. The zip must contain a top-level folder named `abomination-under-absalom`, matching the module id in `module.json`.
+Publish the v2.0.2 download as a release asset named `abomination-under-absalom.zip`. The zip must contain a top-level folder named `abomination-under-absalom`, matching the module id in `module.json`.
