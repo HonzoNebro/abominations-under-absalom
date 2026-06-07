@@ -1,7 +1,7 @@
 {
   "id": "abomination-under-absalom",
   "title": "Abomination Under Absalom",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -205,5 +205,5 @@
   "manifest": "https://raw.githubusercontent.com/HonzoNebro/abominations-under-absalom/main/module.json",
   "readme": "https://github.com/HonzoNebro/abominations-under-absalom/blob/main/README.md",
   "bugs": "https://github.com/HonzoNebro/abominations-under-absalom/issues",
-  "download": "https://github.com/HonzoNebro/abominations-under-absalom/releases/download/v2.0.0/abomination-under-absalom.zip"
+  "download": "https://github.com/HonzoNebro/abominations-under-absalom/releases/download/v2.0.1/abomination-under-absalom.zip"
 }
